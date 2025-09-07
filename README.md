@@ -37,3 +37,17 @@ BACKEND
 FUTURE ENHANCEMENTS
 
 🧠 AI-based recommendations
+
+
+
+## Demo Screenshots  
+
+### 🔑 Login Page
+![Login Page](./login.png)
+
+### 🏠 Home Page
+![Home Page](./home.png)
+
+
+### ▶️ Trailer Player
+![Trailer Player](./trailer.png)
