@@ -1,6 +1,9 @@
 # Netflix Clone App
-## Demo
+## Live link
 Check out the live demo of the Netflix Clone App here: [Live Demo](https://movieflix1-h83b1iyei-skbs-projects-290a9b89.vercel.app)
+### Demo Video
+[Watch Demo Video](https://www.youtube.com/watch?v=ioEmUtOPDN4)
+
 
 The Netflix Clone App is a full-stack web application that replicates the core features of Netflix. It allows users to browse, search, and watch movies or TV shows, with authentication and user-specific recommendations.
 
