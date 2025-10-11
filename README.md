@@ -1,4 +1,4 @@
-# Netflix Clone App
+# MOVIEFLIX
 ## Live link
 Check out the live demo of the Netflix Clone App here: [Live Demo](https://movieflix1-h83b1iyei-skbs-projects-290a9b89.vercel.app)
 ### Demo Video : https://www.youtube.com/watch?v=ioEmUtOPDN4
@@ -8,7 +8,8 @@ Check out the live demo of the Netflix Clone App here: [Live Demo](https://movie
 
 
 
-The Netflix Clone App is a full-stack web application that replicates the core features of Netflix. It allows users to browse, search, and watch movies or TV shows, with authentication and user-specific recommendations.
+The MOVIEFLIX is a full-stack web application that replicates the core features of Netflix. It allows users to browse, search, and watch movies or TV shows, with authentication and user-specific recommendations.
+Also on base of mood user can write a prompt like i want to watch horror movie and he can see related movies.
 
 ## Features
 
@@ -31,7 +32,8 @@ The Netflix Clone App is a full-stack web application that replicates the core f
 ### Backend
 🔥 Firebase Authentication  
 
-## Future Enhancements
+## AI integration
+🧠 GEMINI AI
 🧠 AI-based mood search
 
 
