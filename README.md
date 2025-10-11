@@ -44,9 +44,3 @@ Also on base of mood user can write a prompt like i want to watch horror movie a
 - Node.js installed
 - npm or yarn
 
-### Installation
-```bash
-git clone https://github.com/your-username/netflix-clone.git
-cd netflix-clone
-npm install
-npm start
