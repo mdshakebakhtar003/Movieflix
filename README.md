@@ -18,7 +18,7 @@ Also on base of mood user can write a prompt like i want to watch horror movie a
 🔍 Search Functionality  
 ▶️ Watch Trailers  
 👤 User Profiles  
-📱 Responsive UI  
+📱 Built for Laptop,PC not responsive yet
 
 ## Tech Stack
 
