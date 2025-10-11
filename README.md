@@ -2,7 +2,8 @@
 ## Live link
 Check out the live demo of the Netflix Clone App here: [Live Demo](https://movieflix1-h83b1iyei-skbs-projects-290a9b89.vercel.app)
 ### Demo Video
-[Watch Demo Video](http://img.youtube.com/watch?v=ioEmUtOPDN4.jpg)](https://www.youtube.com/watch?v=ioEmUtOPDN4)
+[![Watch Demo Video](http://img.youtube.com/vi/ioEmUtOPDN4/0.jpg)](https://www.youtube.com/watch?v=ioEmUtOPDN4)
+
 
 
 
