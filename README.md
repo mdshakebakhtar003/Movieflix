@@ -1,53 +1,43 @@
-INTRODUCTION
+# Netflix Clone App
 
 The Netflix Clone App is a full-stack web application that replicates the core features of Netflix. It allows users to browse, search, and watch movies or TV shows, with authentication and user-specific recommendations.
 
-FEATURES
+## Features
 
-✅ User Authentication (Sign Up, Login, Logout)
+✅ User Authentication (Sign Up, Login, Logout)  
+🎬 Browse Movies & TV Shows  
+🔍 Search Functionality  
+▶️ Watch Trailers  
+👤 User Profiles  
+📱 Responsive UI  
 
-🎬 Browse Movies & TV Shows
+## Tech Stack
 
-🔍 Search Functionality
+### Frontend
+⚛️ React.js  
+🗄️ Redux (for state management)  
+🎨 Tailwind CSS (for styling)  
+🔗 fetch (for API calls)  
+🚏 React Router (for navigation)  
 
-▶️ Watch Trailers
+### Backend
+🔥 Firebase Authentication  
 
-👤 User Profiles
+## Future Enhancements
+🧠 AI-based mood search
 
-📱 Responsive UI
+## Demo
+Check out the live demo of the Netflix Clone App here: [Live Demo](https://movieflix1-h83b1iyei-skbs-projects-290a9b89.vercel.app)
 
-TECH STACK
+## Getting Started
 
-FRONTEND
+### Prerequisites
+- Node.js installed
+- npm or yarn
 
-⚛️ React.js
-
-🗄️ Redux (for state management)
-
-🎨 Tailwind CSS (for styling)
-
-🔗 fetch (for API calls)
-
-🚏 React Router (for navigation)
-
-BACKEND
-
-🔥 Firebase Authentication
-
-FUTURE ENHANCEMENTS
-
-🧠 AI-based recommendations
-
-
-
-## Demo Screenshots  
-
-### 🔑 Login Page
-![Login Page](./login.png)
-
-### 🏠 Home Page
-![Home Page](./home.png)
-
-
-### ▶️ Trailer Player
-![Trailer Player](./trailer.png)
+### Installation
+```bash
+git clone https://github.com/your-username/netflix-clone.git
+cd netflix-clone
+npm install
+npm start
