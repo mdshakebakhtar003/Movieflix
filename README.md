@@ -3,7 +3,8 @@
 [🔗 https://movieflix1-h83b1iyei-skbs-projects-290a9b89.vercel.app]
 
 ## NOTE--if live link is not working
-TMDB API if not working from your network then content will not load.Use a Proxy Network that loads tmdb api then only you will see movies and all thing because all contents i am fetching is from TMDB API.
+USE VPN 
+Bcz TMDB API if not working from your network then content will not load.Use a Proxy Network that loads tmdb api then only you will see movies and all thing because all contents i am fetching is from TMDB API.
 
 ### Demo Video : https://www.youtube.com/watch?v=ioEmUtOPDN4
 [![Watch Demo Video](http://img.youtube.com/vi/ioEmUtOPDN4/0.jpg)](https://www.youtube.com/watch?v=ioEmUtOPDN4)
